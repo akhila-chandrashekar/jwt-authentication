@@ -1,7 +1,7 @@
 {
   "name": "jwt-authentication",
   "version": "1.0.0",
-  "description": "--Sample JWT Repository - DEV Branch--",
+  "description": "A sample project to demonstrate authentication using JWT Tokens and Bcrypt in NodeJS",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,8 +29,6 @@
     "moment": "^2.24.0",
     "mongoose": "^5.9.1",
     "morgan": "^1.9.1",
-    "nodemon": "^2.0.2",
-    "passport": "^0.4.1",
-    "passport-jwt": "^2.2.1"
+    "nodemon": "^2.0.2"
   }
 }
