@@ -1,0 +1,36 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "--Sample JWT Repository - DEV Branch--",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhila-chandrashekar/jwt-authentication.git"
+  },
+  "author": "Akhila Chandrashekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhila-chandrashekar/jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/akhila-chandrashekar/jwt-authentication#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^2.20.8",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^2.2.1"
+  }
+}
